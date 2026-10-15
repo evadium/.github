@@ -1,10 +1,12 @@
 <div align="center">
 
-![Evadium Logo](https://avatars.githubusercontent.com/u/338704824?s=230)
+[![Logo](https://avatars.githubusercontent.com/u/338704824?s=230)](https://meowcat.me)
 
 # Evadium
 
 ## Каждый заслуживает свободного интернета
 ### Некоммерческий проект, предоставляющий ресурсы для обхода интернет-блокировок
-</div>
 
+<hr>
+
+Предоставляем свободный интернет уже 10,000+ пользователем
